@@ -164,7 +164,7 @@ Example calculations:
 
 1. If user enters amount upto 2,50,000 then total tax should be 0.
 2. If user enters amount 3,00,000 then tax rate from amount 0 to 2,50,000 should be calculated at the rate of 0% and then rest amount (50,000) should be calculated at the rate of 5%. So total should be as: 0% of 2,50,000 + 5% of 50,000 = 2,500
-3. If user enters amount 15,00,000 than tax should be calculated as below:
+3. If user enters amount 15,00,000 then tax should be calculated as below:
 
 ```
 | From Amount | To Amount | Tax Rate (%) | Tax Amount |
