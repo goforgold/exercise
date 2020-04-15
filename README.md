@@ -131,9 +131,9 @@ Words count: 4
 
 WAP to calculate returns for an FD (Fixed Deposit). User inputs amount and the duration in years for the FD. Interest rate should by dynamically used based on the duration as below:
 
-From 1 year to 3 years: 5.5%
-From 4 years to 5 years: 6.5%
-From 6 years to 8 years: 8.0%
+From 1 year to 3 years: 5.5%  
+From 4 years to 5 years: 6.5%  
+From 6 years to 8 years: 8.0%  
 More than 8 years: 9%
 
 ```
