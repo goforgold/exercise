@@ -40,7 +40,7 @@ Enter a number: 2
 2 x 10 = 20
 ```
 
-## 5. Table Program (dynamic)
+## 5. Table Program (Dynamic)
 
 Write a Java Program which asks user to input a number and a count, and prints its table as below:
 
