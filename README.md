@@ -80,3 +80,39 @@ WAP (Write a Program) to print below patter using loop:
 *
 ```
 
+## 8. Array Input (Dynamic)
+
+WAP which asks user to enter size of array then numbers depending on the size of array, and prints sum.
+
+```
+Enter size of array: 5
+
+Enter number 1: 5
+Enter number 2: 4
+Enter number 3: 3
+Enter number 1: 2
+Enter number 5: 1
+
+Sum: 15
+
+```
+
+## 9. Count Characters
+
+WAP to count characters (including space) in a sentence entered by the user.
+
+```
+Enter sentence: This is my world!
+
+Characters count: 17
+```
+
+## 10. Count Characters (Exclude Spaces in Between)
+
+WAP to count characters (excluding space) in a sentence entered by the user.
+
+```
+Enter sentence: This is my world!
+
+Characters count: 14
+```
