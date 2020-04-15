@@ -116,3 +116,72 @@ Enter sentence: This is my world!
 
 Characters count: 14
 ```
+
+## 10. Count Words
+
+WAP to count words in a sentence entered by the user.
+
+```
+Enter sentence: This is my world!
+
+Words count: 4
+```
+
+## 11. FD Interest Calculation
+
+WAP to calculate returns for an FD (Fixed Deposit). User inputs amount and the duration in years for the FD. Interest rate should by dynamically used based on the duration as below:
+
+From 1 year to 3 years: 5.5%
+From 4 years to 5 years: 6.5%
+From 6 years to 8 years: 8.0%
+More than 8 years: 9%
+
+```
+Enter amount: 10000
+Enter duration: 6
+
+Applicable interest rate: 8.0%
+Total interest in 6 years: 800
+Final amount: 10800
+```
+
+## 12. Income Tax Calculation
+
+WAP to calculate income tax based on the tax slabs as give below:
+
+```
+| From Amount | To Amount | Tax Rate (%) |
+| ----------: | --------: | -----------: |
+|           0 |  2,50,000 |            0 |
+|    2,50,001 |  5,00,000 |            5 |
+|    5,00,001 | 10,00,000 |           10 |
+|   10,00,001 | 12,00,000 |           20 |
+|   12,00,001 |     above |           30 |
+|             |           |              |
+```
+
+Example calculations: 
+
+1. If user enters amount upto 2,50,000 then total tax should be 0.
+2. If user enters amount 3,00,000 then tax rate from amount 0 to 2,50,000 should be calculated at the rate of 0% and then rest amount (50,000) should be calculated at the rate of 5%. So total should be as: 0% of 2,50,000 + 5% of 50,000 = 2,500
+3. If user enters amount 15,00,000 than tax should be calculated as below:
+
+```
+| From Amount | To Amount | Tax Rate (%) | Tax Amount |
+| ----------: | --------: | -----------: | ---------: |
+|           0 |  2,50,000 |            0 |          0 |
+|    2,50,001 |  5,00,000 |            5 |      2,500 |
+|    5,00,001 | 10,00,000 |           10 |     50,000 |
+|   10,00,001 | 12,00,000 |           20 |     40,000 |
+|   12,00,001 | 15,00,000 |           30 |     90,000 |
+
+Total: 1,82,500
+```
+
+Example run:
+
+```
+Enter amount: 1500000
+
+Your total tax is: 182500
+```
