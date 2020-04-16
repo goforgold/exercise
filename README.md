@@ -117,7 +117,7 @@ Enter sentence: This is my world!
 Characters count: 14
 ```
 
-## 10. Count Words
+## 11. Count Words
 
 WAP to count words in a sentence entered by the user.
 
@@ -127,7 +127,7 @@ Enter sentence: This is my world!
 Words count: 4
 ```
 
-## 11. FD Interest Calculation
+## 12. FD Interest Calculation
 
 WAP to calculate returns for an FD (Fixed Deposit). User inputs amount and the duration in years for the FD. Interest rate should by dynamically used based on the duration as below:
 
@@ -145,7 +145,7 @@ Total interest in 6 years: 800
 Final amount: 10800
 ```
 
-## 12. Income Tax Calculation
+## 13. Income Tax Calculation
 
 WAP to calculate income tax based on the tax slabs as give below:
 
