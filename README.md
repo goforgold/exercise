@@ -185,3 +185,48 @@ Enter amount: 1500000
 
 Your total tax is: 182500
 ```
+## 14. Quotient and Remainder
+
+WAP to find quotient and remainder of the given number entered by user.
+
+## 15. Calculate Power
+
+WAP to calculate power of the number given by user. Ask user to enter power too.
+
+```
+Enter number: 2
+Enter power: 4
+
+2^4 = 16
+```
+
+## 16. Character Count
+
+WAP which counts given character in the user input.
+
+```
+Enter a string: This is my world!
+Enter char to count: i
+
+Character 'i' appears 2 times.
+```
+
+## 17. Count All Characters
+
+WAP to count all characters in a given string and print count.
+
+```
+Enter a sentence: all is well here
+
+Characters count:
+
+a: 1
+l: 4
+ : 3
+i: 1
+w: 1
+e: 3
+h: 1
+r: 1
+```
+
