@@ -230,3 +230,15 @@ h: 1
 r: 1
 ```
 
+## Count Vowels
+
+WAP to count vowels in input string.
+
+## Palindrome
+
+WAP to detect whether the input word is a palindrome or not
+
+## Prime Number
+
+WAP to find if the number entered by the user is a prime number or not.
+
