@@ -371,7 +371,7 @@ String to find: sh
 Occurrences: 2
 ```
 
-## 40. Replace Char
+## 31. Replace Char
 
 WAP to replace a character in a given string with another given character
 
@@ -383,7 +383,7 @@ Replace with: e
 Result: sheshwet tripethi
 ```
 
-## 41. Replace String within a String
+## 32. Replace String within a String
 
 WAP to replace a string in a given string with another given string
 
