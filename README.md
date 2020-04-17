@@ -242,3 +242,76 @@ WAP to detect whether the input word is a palindrome or not
 
 WAP to find if the number entered by the user is a prime number or not.
 
+## 21. Show Unique Numbers
+
+WAP which asks user to enter 5 numbers and displays all numbers removing the duplicate numbers
+
+```
+Enter number 1: 1
+Enter number 2: 2
+Enter number 3: 4
+Enter number 4: 4
+Enter number 5: 2
+
+Unique numbers: 1 2 4
+
+```
+
+## 22. Reverse String
+
+WAP that prints input string in reverse order.
+
+```
+Enter a string: aditi
+
+Reverse of aditi is itida
+```
+
+## 23. Print ASCII Values
+
+WAP to print ASCII values of all individual characters in a given string.
+
+```
+Enter a string: shashwat
+
+ASCII value of s: 115
+ASCII value of h: 104
+ASCII value of a: 97
+ASCII value of s: 115
+ASCII value of h: 104
+ASCII value of w: 119
+ASCII value of a: 97
+ASCII value of t: 116
+```
+
+## 24. Print ASCII Values (All Letters)
+
+WAP to print ASCII values of all English alphabets **using for loop**
+
+Output:
+```
+ASCII value of a: 97
+ASCII value of b: 98
+ASCII value of c: 99
+ASCII value of d: 100
+ASCII value of e: 101
+...
+...
+ASCII value of v: 118
+ASCII value of w: 119
+ASCII value of x: 120
+ASCII value of y: 121
+ASCII value of z: 122
+```
+
+## ##. Count Vowels, Consonants and Other Chars
+
+Note: Do it using ASCII values.
+
+```
+Enter a string: I love my family!
+
+Count Vowel: 4
+Count Consonants: 9
+Others: 4
+```
