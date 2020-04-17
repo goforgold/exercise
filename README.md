@@ -383,7 +383,7 @@ Replace with: e
 Result: sheshwet tripethi
 ```
 
-## 40. Replace String within a String
+## 41. Replace String within a String
 
 WAP to replace a string in a given string with another given string
 
