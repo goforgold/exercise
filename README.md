@@ -304,7 +304,7 @@ ASCII value of y: 121
 ASCII value of z: 122
 ```
 
-## ##. Count Vowels, Consonants and Other Chars
+## 25. Count Vowels, Consonants and Other Chars
 
 Note: Do it using ASCII values.
 
