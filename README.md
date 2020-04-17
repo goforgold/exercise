@@ -315,3 +315,83 @@ Count Vowel: 4
 Count Consonants: 9
 Others: 4
 ```
+
+## 26. Compare String Equals (Case Sensitive)
+
+WAP which tells if the two input strings are equal or not.
+
+```
+Enter string: Hello
+Enter another string: hello
+
+Not Equals!
+```
+
+## 27. Compare String Equals (Case Insensitive)
+
+WAP which tells if the two input strings are equal or not.
+
+```
+Enter string: Hello
+Enter another string: hello
+
+Equals!
+```
+
+## 28. Find String in Another String
+
+WAP which tells if a given string exists in another given string
+
+```
+Enter a string: aditi tripathi
+String to find: path
+
+Yes, it occurs!
+```
+
+## 29. Find String in Another String
+
+WAP which tells if a given string exists in another given string
+
+```
+Enter a string: aditi tripathi
+String to find: path
+
+Yes, it occurs!
+```
+
+## 30. Char Occurrence
+
+WAP to find occurrences of a given string into another string
+
+```
+Enter a string: shashwat
+String to find: sh
+
+Occurrences: 2
+```
+
+## 40. Replace Char
+
+WAP to replace a character in a given string with another given character
+
+```
+Enter a string: shashwat tripathi
+Char to find: a
+Replace with: e
+
+Result: sheshwet tripethi
+```
+
+## 40. Replace String within a String
+
+WAP to replace a string in a given string with another given string
+
+```
+Enter a string: hello world!
+Char to find: llo
+Replace with: kko
+
+Result: hekko world!
+```
+
