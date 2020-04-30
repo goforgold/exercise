@@ -438,7 +438,79 @@ al.add(9);
 al.add(7);
 ```
 
-Now take an input (number) from the user and prints whether the number was found in the list of not.
+Now take an input (number) from the user and prints whether the number was found in the list or not.
 
 Please do not use `for` loop to find the number as we do in just arrays. Use built in functions. Look for built in functions using `.` and check which function you can use to find if an element is there in the list or not.
 
+## 37. Find in HashSet
+
+Given an HashSet, find element in the HashSet.
+
+Declare the array list in your program like below:
+
+```java
+HashSet<Integer> hs = new HashSet<Integer>();
+// add elements to HashSet object
+hs.add(3);
+hs.add(17);
+hs.add(6);
+hs.add(9);
+hs.add(7);
+```
+
+Now take an input (number) from the user and prints whether the number was found in the HashSet or not.
+
+Please do not use `for` loop to find the number as we do in just arrays. Use built in functions. Look for built in functions using `.` and check which function you can use to find if an element is there in the list or not.
+
+## 38. HashMap 1
+
+WAP to add elements in the HashMap of integer as a key and string as value based on user input as below and then print all key values as below.
+
+```
+Enter Number of elements: 3
+
+Enter key for item 1: 10
+Enter value for item 1: aditi
+
+Enter key for item 1: 20
+Enter value for item 1: shashwat
+
+Enter key for item 1: 30
+Enter value for item 1: family
+
+Printing HashMap:
+
+10: aditi
+11: shashwat
+12: family
+```
+
+## 39. Find in HasMap based on Key
+
+
+WAP to add elements in the HashMap of integer as a key and string as value based on user input as below and then print the value of given key as below.
+
+```
+Enter Number of elements: 3
+
+Enter key for item 1: 10
+Enter value for item 1: aditi
+
+Enter key for item 1: 20
+Enter value for item 1: shashwat
+
+Enter key for item 1: 30
+Enter value for item 1: family
+
+Enter key to find:
+
+Printing HashMap: 20
+
+Key found with value shashwat
+```
+
+Print below if it doesn't find the key
+
+```
+Sorry the key '20' doesn't exist in the Map
+```
