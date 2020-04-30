@@ -430,7 +430,7 @@ Declare the array list in your program like below:
 
 ```java
 ArrayList<Integer> al = new ArrayList<Integer>();
-        // add elements to ArrayList object
+/ add elements to ArrayList object
 al.add(3);
 al.add(17);
 al.add(6);
