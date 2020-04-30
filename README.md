@@ -395,3 +395,50 @@ Replace with: kko
 Result: hekko world!
 ```
 
+## 32. Basic ArrayList 1
+
+WAP which creates an `ArrayList` of integers, adds 5 items into it and print it using `for` loop.
+
+## 33. Basic ArrayList 2
+
+WAP which creates an `ArrayList` of integers, adds 5 items into it and print it using `for in` loop.
+
+## 34. Convert ArrayList to Array
+
+WAP which
+
+1. Creates an `ArrayList` of integers
+2. Add 5 items into it
+3. Convert it to Array and
+4. Print elements of the converted array using regular for loop.
+
+## 35. Basic HashSet 1
+
+WAP which creates a `HashSet` of integers, adds 5 items into it and print it using `for` and `for in` loop.
+
+Tip: There are several names of `for ( ... in ... )` loop as
+1. Advanced for loop
+2. For each loop
+3. For in loop
+
+
+## 36. Find in ArrayList
+
+Given an array list, find element in the array list.
+
+Declare the array list in your program like below:
+
+```java
+ArrayList<Integer> al = new ArrayList<Integer>();
+        // add elements to ArrayList object
+al.add(3);
+al.add(17);
+al.add(6);
+al.add(9);
+al.add(7);
+```
+
+Now take an input (number) from the user and prints whether the number was found in the list of not.
+
+Please do not use `for` loop to find the number as we do in just arrays. Use built in functions. Look for built in functions using `.` and check which function you can use to find if an element is there in the list or not.
+
